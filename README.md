@@ -40,7 +40,7 @@ ShareSDK, YouMeng友盟
 VCTransitionsLibrary, ZFDragableModalTransition, WYInteractiveTransitoins
 
 ### Text Field:
-RPFloatingPlaceholders, JVFloatLabeledTextField
+RPFloatingPlaceholders, JVFloatLabeledTextField, TextFieldEffects
 
 ### UILabel and UIButton:
 TextFieldEffects, LTMorphingLabel(Keynotes effects), ZFRippleButton, VBFPopFlatButton(button transition), FBGlowLabel, DTCoreText, Shimmer
