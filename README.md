@@ -1,5 +1,5 @@
 # iOSLibs
-Collection of Objective-C and Swift libraries for iOS development.
+Collection of Objective-C and Swift libraries for iOS development that I liked and used.
 
 -------------------------------------------------------------------------
 
