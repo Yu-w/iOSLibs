@@ -7,7 +7,7 @@ Collection of Objective-C and Swift libraries for iOS development that I liked a
 Spring, POP
 
 ### Pull to Refresh:
-MJRresh, SVORefresh, EGOTableViewPullRefresh, CBStoreHouseRefreshControl
+MJRefresh, SVORefresh, EGOTableViewPullRefresh, CBStoreHouseRefreshControl
 
 ### ImageView:
 SDWebImage
@@ -15,7 +15,7 @@ SDWebImage
 ### Progress View:
 PWProgressView, UAProgressView, RJImageLoader, PQFCustomLoaders
 
-### Alter:
+### Alter View:
 MBProgressHUD, SVProgress, CRToast, WCAlterVIew
 
 ### Image Browsing:
@@ -31,10 +31,10 @@ Alamofire, AFNetwork, CocoaAsyncSocket
 SwiftyJSON, XMLParse
 
 ### Persistance:
-MagicalRecord(wrap CoreData), FMDB(sql)
+MagicalRecord(Core Data), FMDB(Sqlite)
 
 ### Social Share:
-ShareSDK, YouMeng友盟
+ShareSDK, UMeng友盟
 
 ### Transition Animation:
 VCTransitionsLibrary, ZFDragableModalTransition, WYInteractiveTransitoins
@@ -43,7 +43,7 @@ VCTransitionsLibrary, ZFDragableModalTransition, WYInteractiveTransitoins
 RPFloatingPlaceholders, JVFloatLabeledTextField, TextFieldEffects
 
 ### UILabel and UIButton:
-TextFieldEffects, LTMorphingLabel(Keynotes effects), ZFRippleButton, VBFPopFlatButton(button transition), FBGlowLabel, DTCoreText, Shimmer
+WYMaterialButton, LTMorphingLabel(Keynotes effects), VBFPopFlatButton(button transition), FBGlowLabel, DTCoreText, Shimmer
 
 ### View Display:
 MGSpotyViewController, RKCardView, HAPaperViewController, AMLoginViewController
