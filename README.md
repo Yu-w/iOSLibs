@@ -69,5 +69,8 @@ FSMediaPicker
 ### MessageUI:
 SlackTextViewController, JSQMessagesViewController
 
+### Cloud Service
+Parse, LearnCloud, Bmob, Qiniu, Mob, AWS
+
 ### Testing:
 Quick
