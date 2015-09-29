@@ -4,7 +4,7 @@ Collection of Objective-C and Swift libraries for iOS development that I liked a
 -------------------------------------------------------------------------
 
 ### Animation:
-Spring, POP
+Spring, POP(Facebook's)
 
 ### Pull to Refresh:
 MJRefresh, SVORefresh, EGOTableViewPullRefresh, CBStoreHouseRefreshControl
