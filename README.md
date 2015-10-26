@@ -4,7 +4,7 @@ Collection of Objective-C and Swift libraries for iOS development that I liked a
 -------------------------------------------------------------------------
 
 ### Animation:
-Spring, POP(Facebook's)
+Spring, POP(Facebook's), JazzHands
 
 ### Pull to Refresh:
 MJRefresh, SVORefresh, EGOTableViewPullRefresh, CBStoreHouseRefreshControl
@@ -16,7 +16,7 @@ SDWebImage
 PWProgressView, UAProgressView, RJImageLoader, PQFCustomLoaders
 
 ### Alter View:
-MBProgressHUD, SVProgress, CRToast, WCAlterVIew
+MBProgressHUD, SVProgress, CRToast, WCAlterVIew, MMPopupView
 
 ### Image Browsing:
 SDPhotoBrowser, ZYQAssetPickerController, MWPhotoBrowser, CorePhotoBroswerVC
@@ -49,13 +49,13 @@ WYMaterialButton, LTMorphingLabel(Keynotes effects), VBFPopFlatButton(button tra
 MGSpotyViewController, RKCardView, HAPaperViewController, AMLoginViewController
 
 ### UINavigationBar:
-TLYShyNavBar(facebook), LTNavigationBar, BLKFlexibleHeightBar
+JZNavigationExtension, TLYShyNavBar(facebook), LTNavigationBar, BLKFlexibleHeightBar
 
 ### UITableView:
 DZNEmptyDataSet, CSStickyHeaderFlowLayout
 
 ### Side Menu:
-RESideMenu, PKRevealController 2
+RESideMenu, PKRevealController2
 
 ### Auto Layout:
 SnapKit, Mansory
@@ -74,3 +74,6 @@ Parse, LearnCloud, Bmob, Qiniu, Mob, AWS
 
 ### Testing:
 Quick
+
+### Horizontal Navigation Top Bar
+HACursor
