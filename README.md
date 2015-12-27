@@ -3,14 +3,17 @@ Collection of Objective-C and Swift libraries for iOS development that I liked a
 
 -------------------------------------------------------------------------
 
+### Kits
+Material-Controls-For-iOS, YYKit
+
 ### Animation:
 Spring, POP(Facebook's), JazzHands
 
 ### Pull to Refresh:
-MJRefresh, SVORefresh, EGOTableViewPullRefresh, CBStoreHouseRefreshControl
+MJRefresh, PullToBounce, SVORefresh, EGOTableViewPullRefresh, CBStoreHouseRefreshControl
 
 ### ImageView:
-SDWebImage
+SDWebImage, YYImage(YYKit)
 
 ### Progress View:
 PWProgressView, UAProgressView, RJImageLoader, PQFCustomLoaders
@@ -43,7 +46,7 @@ VCTransitionsLibrary, ZFDragableModalTransition, WYInteractiveTransitoins
 RPFloatingPlaceholders, JVFloatLabeledTextField, TextFieldEffects
 
 ### UILabel and UIButton:
-WYMaterialButton, LTMorphingLabel(Keynotes effects), VBFPopFlatButton(button transition), FBGlowLabel, DTCoreText, Shimmer
+WYMaterialButton, LTMorphingLabel(Keynotes effects), VBFPopFlatButton(button transition), FBGlowLabel, DTCoreText, Shimmer, TBIconTransitionKit(transition)
 
 ### View Display:
 MGSpotyViewController, RKCardView, HAPaperViewController, AMLoginViewController
@@ -54,8 +57,14 @@ JZNavigationExtension, TLYShyNavBar(facebook), LTNavigationBar, BLKFlexibleHeigh
 ### UITableView:
 DZNEmptyDataSet, CSStickyHeaderFlowLayout
 
+### TabBar
+CYLTabBarController(mid +), YZDisplayViewController(top), MDTabBarViewController(top)
+
 ### Side Menu:
 RESideMenu, PKRevealController2
+
+### Popup View
+STPopup, MMPopupView, QBPopupMenu
 
 ### Auto Layout:
 SnapKit, Mansory
