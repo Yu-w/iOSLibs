@@ -57,7 +57,10 @@ JZNavigationExtension, TLYShyNavBar(facebook), LTNavigationBar, BLKFlexibleHeigh
 ### UITableView:
 DZNEmptyDataSet, CSStickyHeaderFlowLayout
 
-### TabBar
+### UICollectionView:
+CHTCollectionViewWaterfallLayout(瀑布流)
+
+### TabBar:
 CYLTabBarController(mid +), YZDisplayViewController(top), MDTabBarViewController(top)
 
 ### Side Menu:
