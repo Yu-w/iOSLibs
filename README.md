@@ -52,7 +52,7 @@ WYMaterialButton, LTMorphingLabel(Keynotes effects), VBFPopFlatButton(button tra
 MGSpotyViewController, RKCardView, HAPaperViewController, AMLoginViewController
 
 ### UINavigationBar:
-JZNavigationExtension, TLYShyNavBar(facebook), LTNavigationBar, BLKFlexibleHeightBar
+JZNavigationExtension, TLYShyNavBar(facebook), LTNavigationBar, BLKFlexibleHeightBar, AMScrollingNavbar
 
 ### UITableView:
 DZNEmptyDataSet, CSStickyHeaderFlowLayout
