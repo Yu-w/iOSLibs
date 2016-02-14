@@ -22,7 +22,7 @@ PWProgressView, UAProgressView, RJImageLoader, PQFCustomLoaders
 MBProgressHUD, SVProgress, CRToast, WCAlterVIew, MMPopupView
 
 ### Image Browsing:
-SDPhotoBrowser, ZYQAssetPickerController, MWPhotoBrowser, CorePhotoBroswerVC
+SDPhotoBrowser, ZYQAssetPickerController, MWPhotoBrowser, CorePhotoBroswerVC, ImagePickerSheetController
 
 ### Image Processing:
 CoreImage, GUIImage
