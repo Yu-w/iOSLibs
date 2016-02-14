@@ -65,8 +65,8 @@ CYLTabBarController(mid +),
 Top Tab:
 UIScrollSlidingPages, YZDisplayViewController, MDTabBarViewController
 
-### Side Menu:
-RESideMenu, PKRevealController2
+### Menu:
+RESideMenu, PKRevealController2, BTNavigationDropdownMenu
 
 ### Popup View
 STPopup, MMPopupView, QBPopupMenu
