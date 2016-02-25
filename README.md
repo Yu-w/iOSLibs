@@ -10,7 +10,7 @@ Material-Controls-For-iOS, YYKit
 Spring, POP(Facebook's), JazzHands
 
 ### Pull to Refresh:
-MJRefresh, PullToBounce, SVORefresh, EGOTableViewPullRefresh, CBStoreHouseRefreshControl
+MJRefresh, PullToBounce, SVORefresh, CBStoreHouseRefreshControl, BreakOutToRefresh, GearRefreshControl, Replace-iOS, KYJellyPullToRefresh
 
 ### ImageView:
 SDWebImage, YYImage(YYKit)
@@ -34,7 +34,7 @@ Alamofire, AFNetwork, CocoaAsyncSocket
 SwiftyJSON, XMLParse
 
 ### Persistance:
-MagicalRecord(Core Data), FMDB(Sqlite)
+MagicalRecord(Core Data), FMDB(Sqlite), Realm
 
 ### Social Share:
 ShareSDK, UMeng友盟
