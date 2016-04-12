@@ -63,7 +63,7 @@ CHTCollectionViewWaterfallLayout(瀑布流)
 ### TabBar:
 CYLTabBarController(mid +), 
 Top Tab:
-UIScrollSlidingPages, YZDisplayViewController, MDTabBarViewController
+XLPagerTabStrip, UIScrollSlidingPages, YZDisplayViewController, MDTabBarViewController
 
 ### Menu:
 RESideMenu, PKRevealController2, BTNavigationDropdownMenu
